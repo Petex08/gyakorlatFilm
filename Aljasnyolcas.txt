@@ -1,8 +1,14 @@
 
-samuel l. jackson
-kurt russel
-tim roth
-channing tatum
+Samuel L. Jackson	Marquis Warren őrnagy / fejvadász	Reviczky Gábor
+Kurt Russell	John Ruth / hóhér	Gáspár Sándor
+Jennifer Jason Leigh	Daisy Domergue / fogoly	Murányi Tünde
+Tim Roth	Oswaldo Mobray / töpszli	Csankó Zoltán
+Walton Goggins	Chris Mannix / seriff	Kaszás Gergő
+Michael Madsen	Joe Gage / marhapásztor	Schneider Zoltán
+Demián Bichir	Bob / mexikói	Csuja Imre
+Bruce Dern	Sandy Smithers tábornok / konföderációs	Fodor Tamás
+Channing Tatum	Jody Domergue	Dévai Balázs
+Quentin Tarantino	narrátor	Zsótér Sándor
 
 Az Aljas nyolcas főhősei sokat próbált fejvadászok, akik az amerikai polgárháborút követő időszakban találkoznak egymással Wyoming erdős vidékein. Egy kemény hóvihar elől menekülve kénytelenek egy helyen meghúzni magukat, a kényszerű összezártság eredménye pedig ármány és intrika. Vajon túlélik-e a vihart az egymás megtévesztésével és átverésével boldogulni próbáló hét(nyolc)próbás gazemberek?
 
